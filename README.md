@@ -1,4 +1,4 @@
-# surfs_up
+# Surf's_up
 The repository is to do data analysis on the weather of Oahu using SQLite,  SQLAlchemy,  Flask 
 ## Overview of the analysis
 The purpose of the analysis is to find temperature data for the months of June and December in Oahu so the investor, W. Avy, can be reassured his business plan in opening a Surf n’ Shake shop which sells surf boards and ice creams to locals. By knowing the weather data, W.Avy can utilize the information and make proper decision on opening the shop full year or seasonally. 
@@ -10,3 +10,6 @@ The purpose of the analysis is to find temperature data for the months of June a
 - The standard deviation for December is 3.7 and for June it is 3.2. 
 From these observations, it can be concluded that June has on average warmer days according to the mean data, standard deviation data and min & max degree results. 
 ## Summary 
+![junehist](https://github.com/Monsaiaung/surfs_up/blob/73b6356337bc7d8308e4ef7be0688e9dc4024611/Junehistagram.png)
+![decemberhist](https://github.com/Monsaiaung/surfs_up/blob/73b6356337bc7d8308e4ef7be0688e9dc4024611/Decemberhistagram.png)
+The histagram of June temperatures show that the most frequent temperature is around 75 F and other high frequent temperatures range from 72 to 79 F Degrees having a wider range of warm temperature days. The histagram of December temperatures show that the most frequent temperature is around 71 F and other high frequent terperatures range from 69 to 75 F Degrees. 
